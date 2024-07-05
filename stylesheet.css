@@ -91,7 +91,7 @@ main div#mainElencoLavori div.lavoro {
 }
 
 main div#mainElencoLavori div.lavoro div.lavoroImages {
-    width: 25%;
+    width: 33%;
     margin-right: 0.5vw;
 }
 
@@ -101,7 +101,7 @@ main div#mainElencoLavori div.lavoro div.lavoroImages img {
 }
 
 main div#mainElencoLavori div.lavoro div.lavoroText {
-    width: 75%;
+    width: 66%;
 }
 
 main div#mainElencoLavori div.lavoro div.lavoroText h4 {
